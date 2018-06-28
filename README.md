@@ -9,3 +9,5 @@ Features used for predictions:
   5.Male/Female
 Some of the evaluations listed below:
 ![alt text](https://github.com/FalconMadhab/AD_clicks/blob/master/Figure_1.png)
+![alt text](https://github.com/FalconMadhab/AD_clicks/blob/master/Figure_2.png)
+
