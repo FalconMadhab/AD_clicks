@@ -21,3 +21,12 @@ Some of the evaluations listed below:
 ![alt text](https://github.com/FalconMadhab/AD_clicks/blob/master/Figure_3.png)
 ![alt text](https://github.com/FalconMadhab/AD_clicks/blob/master/Figure_4.png)
 ![alt text](https://github.com/FalconMadhab/AD_clicks/blob/master/Figure_5.png)
+
+The **Result of the Classification Report** 
+
+precision    recall  f1-score   support
+
+          0       0.87      0.96      0.91       162
+          1       0.96      0.86      0.91       168
+
+avg / total       0.91      0.91      0.91       330
